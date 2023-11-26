@@ -17,21 +17,21 @@ const products = [
     {
         id: 3,
         title: "Nike Air Jordan",
-        price: 740.9,
+        price: 7400.9,
         image:
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFQvZevXm-Oyld6eSob5-83_lyj0lhqiFn-l9OjGXFyMAk4fDcFuyjc9Yvy4V04HV5VCkNI82RyT9w0ePt2wEkBlIammvFMAilU_JOigKJEXcYWNwYcmrdoNR1H0b6VThiH1pK6PNb75byVEBX4gwfAU440zS2BZHm75D4nsu-NNkAJhf5SzmxN9tf/s320/shoe3.webp",
     },
     {
         id: 4,
         title: "Nike Air Max SYSTM",
-        price: 800,
+        price: 8000,
         image:
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTCToBc5mAQozH9BWpfdI-aNxKn4MGlDhz5gU3ImGbCcIMu1fxAYD-cHRN1WJvd-qey3Uu4SiQ-D1ni0hYW3RoH3o1wXRuIcKsc1DYVqm7PgqDUjjqp6msVdLV-EKLjxQRuPBrihxXvh54nKOEjfukWLKPQQepjnM34TcWbzuJo6oSU4cM-QeghbYd/s320/shoe4.webp",
     },
     {
         id: 5,
         title: "Nike Air Force",
-        price: 480.99,
+        price: 4800.99,
         image:
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeGXR6jWsel2QFq3wZ9njOaw3q25-i2jhKl26Uwv6-_xdJGzVGMAXPuq7jpAmdqE22C3IMuOtJVM6SP5N4XOZlrQX6DIsg2K2rwXXetDlzKPhdkGkij4zLkRG0W-jHLuMArIO4hKhLrr8pL1S1SCUvRrBWe5Wbr-RRmCnZWAaNvtQ5qcTCeorOeE1Y/s320/shoe5.webp",
     },
