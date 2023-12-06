@@ -18,5 +18,5 @@ payBtn.addEventListener("click", () => {
             console.error("Invalid URL recived from the server:", data.url)
         }
     })
-    .catch((err) => console.error(err))
+    .catch((err) => console.error(err));
 })
